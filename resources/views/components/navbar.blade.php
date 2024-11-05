@@ -84,9 +84,9 @@
                 </li>
 
                 <li><a href="/branches" class="sub-menu-item">Branch</a></li>
-                <li><a href="/my/profile" class="sub-menu-item">profile</a></li>
-                <li><a href="/ads/create" class="sub-menu-item">elon </a></li>
-                <li><a href="/contact" class="sub-menu-item">contact</a></li>
+                <li><a href="/my/profile" class="sub-menu-item">Profile</a></li>
+                <li><a href="/ads/create" class="sub-menu-item">E'lon </a></li>
+                <li><a href="/contact" class="sub-menu-item">Contact</a></li>
 
             </ul><!--end navigation menu-->
         </div><!--end navigation-->

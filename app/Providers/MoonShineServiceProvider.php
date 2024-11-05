@@ -59,10 +59,10 @@ class MoonShineServiceProvider extends MoonShineApplicationServiceProvider
             ]),
             MenuItem::make("Home", url("/"))->icon("heroicons.home")->customLinkAttributes(['target'=>'_blank']),
             MenuItem::make("E'lonlar", new AdResource())->icon("heroicons.home-modern"),
-            MenuItem::make("branch",new BranchResource())->icon("heroicons.map-pin"),
-            MenuItem::make("status",new StatusResource())->icon("heroicons.check-circle"),
-            MenuItem::make("user",new UserResource())->icon("heroicons.user-circle"),
-            MenuItem::make("images",new ImagesResource())->icon("heroicons.photo"),
+            MenuItem::make("Branch",new BranchResource())->icon("heroicons.map-pin"),
+            MenuItem::make("Status",new StatusResource())->icon("heroicons.check-circle"),
+            MenuItem::make("User",new UserResource())->icon("heroicons.user-circle"),
+            MenuItem::make("Images",new ImagesResource())->icon("heroicons.photo"),
             MenuItem::make("Bookmarks", new BookmarkResource())->icon("heroicons.bookmark"),
 
         ];
